@@ -25,9 +25,3 @@ An interactive Power BI dashboard was created to visualize:
 - Cancellation rates
 - Revenue distribution
 
-![Dashboard Preview](images/dashboard.png)
-
-## 🚀 How to Run
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/ola-data-analysis.git
